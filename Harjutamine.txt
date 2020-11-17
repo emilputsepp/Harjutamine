@@ -1,2 +1,3 @@
 Github on tarkvara, mida tavaliselt kasutatakse versioonihaldusteks.
 GitHub is a highly used software that is typically used for version control. It is helpful when more than just one person is working on a project.
+Ma hakkan githubis hoidma enda programmeerimis koode.
